@@ -8,3 +8,7 @@
 
 ##### 20200612更新
 demo举例实现AOP切@Valid注解的Controller方法，进行参数校验。
+- stu_id不合法
+![stu_id](src/main/webapp/result/stu_id.png)
+- start_time不合法
+![start_time](src/main/webapp/result/start_time.png)
